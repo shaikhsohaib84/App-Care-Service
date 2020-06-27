@@ -126,8 +126,8 @@ form{
 }
 
 .parallax{
-    background-image: url('/photos/ac1.jpg');
-    height: 80%; 
+    background-image: url('/App-Care-Service/photos/ac1.jpg');
+    height: 60%; 
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -349,7 +349,7 @@ h4{
 .testimonial-parallax{
     padding: 5px 0px;
      /* The image used */
-  background-image: url('/photos/nepal-2184940_1920.jpg');
+  background-image: url('/App-Care-Service/photos/nepal-2184940_1920.jpg');
 
   /* Full height */
   height: 100%;

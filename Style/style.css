@@ -49,6 +49,25 @@ h6.sub-headline{
     letter-spacing: 0.03em;
 }
 
+@media all and (max-width:550px){
+    .header{
+        display: block;
+        margin-top: 0;
+    }
+    .logo-div{
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+    .logo{
+        width: 20%;
+        margin-left: 40%;
+    }
+    .head-line{
+        text-align: center;
+    }  
+}
+
 .head-st{
     font-family: 'Questrial', sans-serif;
     width: auto;
